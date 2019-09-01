@@ -4,5 +4,5 @@
 
 Let's go at the next stop
 
-![t0186cefa2e3fadc39c](D:\内功修炼心法\go\picture\t0186cefa2e3fadc39c.png)
+![1](https://github.com/SOYANGA/Let-s-go-/blob/master/picture/2.png)
 

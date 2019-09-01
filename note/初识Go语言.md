@@ -1,8 +1,8 @@
 # 初识Go语言
 
-![t0186cefa2e3fadc39c](C:\Users\32183\Desktop\t0186cefa2e3fadc39c.png)
+![t0186cefa2e3fadc39c](https://github.com/SOYANGA/Let-s-go-/blob/master/picture/2.png)
 
- [初始Go语言.md](初始Go语言.md) 
+
 
 Go语言希望成为互联网时代的C语言。多数操作系统级语言（包括Java,C#）的根本变成哲学来自C++。将C++面向对象的哲学发扬光大，Go语言则认为值得学习的是C语言，因此，Go语言也要足够简单！
 
