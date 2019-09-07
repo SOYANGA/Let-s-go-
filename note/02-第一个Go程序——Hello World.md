@@ -1,6 +1,6 @@
 # 第一个Go程序——Hello World
 
-![1](https://github.com/SOYANGA/Let-s-go-/blob/master/picture/1.png)
+![1](D:\内功修炼心法\go\picture\t016eadbd800e6e79a8.png)
 
 ## Show me the code
 
