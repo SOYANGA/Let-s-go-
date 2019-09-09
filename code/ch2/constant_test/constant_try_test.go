@@ -4,7 +4,7 @@ import "testing"
 
 /*
 枚举表示
- */
+*/
 const (
 	Monday = iota + 1
 	Tuesday
@@ -13,7 +13,6 @@ const (
 	Friday
 	Saturday
 	Sunday
-
 )
 
 /**
@@ -31,8 +30,8 @@ func TestConstantTry(t *testing.T) {
 
 func TestConstantTry1(t *testing.T) {
 	a := 7 //0111
-	t.Log(a&Readable == Readable, a&Writable == Writable, a&Executable == Executable)
+	t.Log(a&Readable == Readable, a&Writable == Writable, a&Executable == Executable)  //true true true
 
-	b := 1 //0001
-	t.Log(b&Readable == Readable, b&Writable == Writable, b&Executable == Executable)
+	b := 1                                                                            //0001
+	t.Log(b&Readable == Readable, b&Writable == Writable, b&Executable == Executable) //true false false
 }
